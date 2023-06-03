@@ -24,7 +24,7 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ### Links
 
-Solution URL: [https://seismicman.github.io/13-Four-Card-Feature-Section-Master/](https://seismicman.github.io/13-Four-Card-Feature-Section-Master/)
+Solution URL: [https://seismicman.github.io/14_Base-Apparel-Coming-Soon-Master/](https://seismicman.github.io/14_Base-Apparel-Coming-Soon-Master/)
 
 ## My process
 
